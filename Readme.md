@@ -20,8 +20,8 @@ Berikut dibawah ini ditampilkan 5 daftar tugas dan ekspektasi dari kode projek b
 ![Markdown](https://storage.googleapis.com/assets-edlink/p/medium-9010d7123737800b11fc1297173b4fb428606d4cbd46609f345850dad718f25f-exercise-2-2.png)
 
 ## Code Block 
-> [!CATATAN] 
-> Kode dan keterangan penjelasan ditulis dalam Bahasa Inggris 
+> **NOTE**  
+> Kode dan keterangan penjelasan ditulis dalam Bahasa Inggris
 
 *fahrenheit-to-celsius-converter.js*
 ```javascript
